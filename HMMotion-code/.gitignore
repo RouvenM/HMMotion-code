@@ -1,0 +1,8 @@
+# data and results are not part of the repository
+rawdata/
+results/
+*.rds
+*.RData
+.Rhistory
+.Rproj.user/
+*.out
